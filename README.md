@@ -1,14 +1,15 @@
-<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
-<h3 align="center">Aspiring Full Stack Developer | Java | Python | MERN</h3>
+<h1 align="center">Hi 👋, I'm ASVINDHANN</h1>
+<h3 align="center">Enthusiastic developer exploring Full Stack Developer, Java, React. Instersted in Full-Stack Development. Currently learning ReactJs + Redux. Looking to collaborate on open-source projects & innovative ideas. Passionate about software development, problem solving, and building impactful projects.</h3>
 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on *Full Stack Projects*
-- 🌱 I’m learning *Java, SQL, React, Node.js*
-- 💬 Ask me about *Java, HTML, CSS, JS*
-- 📫 How to reach me: *yourmail@gmail.com*
-- ⚡ Fun fact: I love coding and problem solving!
+- 🔭 I’m currently working on *Full Stack applications with Javascript and React.
+- 🌱 currently learning *ReactJs, Rest APLIs, Redux, Node.js*
+- 💬 Ask me about *Java, SpringBoot, React, Full-stack Development.*
+- 📫 How to reach me: *asvindhanelangovan@gmail.com*
+- ⚡ Fun fact: I love turning complex problems into simple impact and problem solving!
+- 🚀 My goal is to build projects that have real-world impact and are cleanly architected.
 
 ---
 
